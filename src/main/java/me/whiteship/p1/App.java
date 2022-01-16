@@ -1,4 +1,4 @@
-package me.whiteship;
+package me.whiteship.p1;
 
 /**
  * Hello world!

@@ -1,4 +1,4 @@
-package me.whiteship;
+package me.whiteship.p1;
 
 import static org.junit.Assert.assertTrue;
 
